@@ -1,5 +1,11 @@
 # Bluetooth LE Connection Analyzer for Tuya & Headset Devices
 
+
+<p align="center"><img src="docs/images/bluetooth-le-hci-log-connection-analyzer.svg" alt="Bluetooth LE HCI log analyzer for Windows Tuya and headset connection diagnosis" width="960" /></p>
+
+<sub>Illustrative project schematic; not an actual CAD export, hardware photograph, or independently tested result.</sub>
+
+
 [![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
